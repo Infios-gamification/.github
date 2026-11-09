@@ -18,3 +18,5 @@ By centralizing these files, we ensure consistency.
 ## Resources
 
 - [GitHub Docs: About the `.github` Repository](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
+
+- 🔧 **Commit message hook** – each repo ships `.githooks/prepare-commit-msg` (enable it with `git config core.hooksPath .githooks`)
