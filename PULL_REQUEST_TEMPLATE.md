@@ -10,7 +10,7 @@ Provide a concise summary of *what* this PR changes and *why*, including context
 Include relevant links, such as the JIRA issue (required).
 -->
 
-**JIRA Issue:** [KSENG-XXXX](https://koerberdigital.atlassian.net/browse/KSENG-XXXX)
+**JIRA Issue:** [KSENG-XXXX](https://infios.atlassian.net/browse/KSENG-XXXX)
 
 ## Type of Change
 
